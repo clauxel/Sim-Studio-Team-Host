@@ -1,0 +1,11 @@
+# Sim Studio Team Host
+
+Sim Studio Team Host is a SaaS workspace for Sim Studio.
+
+Website: https://simstudiohost.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Sim Studio
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
